@@ -1,0 +1,12 @@
+{
+  "name": "Node-Svpply",
+  "preferGlobal": "true",
+  "version": "0.0.1",
+  "author": "Faisal Abid <faisal.abid@gmail.com>",
+  "description": "Node-Svpply",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FaisalAbid/Node-Workshop.git"
+  }
+}
+
